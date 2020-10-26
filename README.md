@@ -1,7 +1,7 @@
 # SocialSploit 
      Installation
      pkg install -y git
-     git clone https://github.com/Cesar-Hack-Gray/SocialSploit
+     git clone https://github.com/hkuy/socialsploit
      cd SocialSploit
      ls
      bash install.sh
